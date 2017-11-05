@@ -1,0 +1,17 @@
+{
+  "httpServer": {
+    "username": "lox2indego",
+    "password": "lox2indego",
+    "port": "8081"
+  },
+  "lox2indego": {
+    "interval": "120",
+    "executable": "executable/bin/IndegoController"
+  },
+  "indego": {
+    "username": "myusername@email.local",
+    "password": "securepassword"
+  }
+}
+
+// vim: ts=2 sw=2 sts=2 et
