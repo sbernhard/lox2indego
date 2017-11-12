@@ -58,8 +58,10 @@ http://[ip-address]/command?action=[action]
 
 ## Loxone Configuration
 ![Loxone config](/doc/config.png)
+
 ![Virtual Output](/doc/config2.png)
-![Virtual Output Command(/doc/config3.png)
+
+![Virtual Output Command](/doc/config3.png)
 
 
 ## Issues
