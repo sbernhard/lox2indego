@@ -56,6 +56,12 @@ http://[ip-address]/command?action=[action]
 
 [action] is one of "mow", "return" or "pause"
 
+## Loxone Configuration
+![Loxone config](/doc/config.png)
+![Virtual Output](/doc/config2.png)
+![Virtual Output Command(/doc/config3.png)
+
+
 ## Issues
 Currently it's only possible to run one transaction (query status, mow, return, pause). In case 
 there is already a transcation up, the second transaction will fail. 
